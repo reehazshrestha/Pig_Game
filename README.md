@@ -7,4 +7,4 @@ A simple pig game which can be played by 2 person in a single device !!
 - Player have to make their score to 100 or greater to win
 - enJOY ---- !
 
-# PREVIEW # :- 
+# PREVIEW  :- https://reehazshrestha.github.io/pigGame_jS/
